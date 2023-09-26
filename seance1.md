@@ -181,6 +181,14 @@ Source : https://symfonycasts.com/screencast/api-platform/relations
 * Un acteur doit permettre de récupérer tous les films dans lesquels il a joué.
 * Une catégorie doit permettre de récupérer tous les films de cette catégorie.
 
+### Bilan Partie 1
+
+* Ajoutez une entité "Nationalité", générez des données.
+* Un acteur à une nationalité, modifiez les éléments en conséquences.
+* Lors je récupère un acteur, je veux afficher sa nationalité.
+* Gérez l'ensemble des ces modifications avec le git flow.
+* Proposez "la requête" permettant d'ajouter un acteur et sa nationalité (faire un fichier md dans votre repository avec la solution)
+
 ### Validation des données
 
 Source : https://symfonycasts.com/screencast/api-platform/validation
