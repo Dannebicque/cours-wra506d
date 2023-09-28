@@ -208,7 +208,7 @@ Source : https://symfonycasts.com/screencast/api-platform/filters
 
 ### Sécurité
 
-#### Rappel de la sécurité dans Syfmony
+#### Rappel de la sécurité dans Symfony
 
 https://cours.davidannebicque.fr/symfony/semestre-3/securite
 
