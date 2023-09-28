@@ -222,6 +222,14 @@ Source : https://symfonycasts.com/screencast/api-platform-security
 et
 https://api-platform.com/docs/core/security/
 
+#### Exercices
+
+* Créer la partie sécurité et mettre en place les fixtures associées (5 Users et un admin)
+* Chaque film aura un "User" associé (l'auteur de la fiche)
+* Interdire les fonction PUT/PATCH si on est pas l'auteur
+* Interdire la suppression si on est pas admin (un USER sera donc Admin)
+* Les catégories ne seront gérables que par l'Admin (PUT, NEW, DELETE)
+
 ## Activer GraphQL
 
 Ressources ici : <https://api-platform.com/docs/core/graphql/>
