@@ -204,9 +204,23 @@ Source : https://symfonycasts.com/screencast/api-platform/filters
 
 #### Exercices
 
+* Mettre en places des filtre sur la partie movie (recherche par titre, durée,...)
+
 ### Sécurité
 
+#### Rappel de la sécurité dans Syfmony
+
+https://cours.davidannebicque.fr/symfony/semestre-3/securite
+
+#### Notion de Voters
+
+https://symfony.com/doc/current/security/voters.html
+
+#### Sécurité dans ApiPlatform
+
 Source : https://symfonycasts.com/screencast/api-platform-security
+et
+https://api-platform.com/docs/core/security/
 
 ## Activer GraphQL
 
